@@ -10,7 +10,8 @@
     "populate-db": "node scripts/populate-database.js"
   },
   "devDependencies": {
-    "vite": "^5.4.2"
+    "vite": "^5.4.2",
+    "@faker-js/faker": "^8.4.1"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.3"
